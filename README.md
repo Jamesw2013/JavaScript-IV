@@ -16,7 +16,7 @@ This challenge focuses on classes in JavaScript using the new `class` keyword.
 **Follow these steps for completing your project.**
 
 * [x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
-* [ ] Add your project manager as a reviewer on the pull-request
+* [x] Add your project manager as a reviewer on the pull-request
 * [ ] Your project manager will count the project as complete by merging the branch back into master.
 
 ## Assignment Description
@@ -44,8 +44,8 @@ const fred = new Person({
 
 ## `prototype-refactor` - Take existing code and make it modern.
 
-* You're going to work with your prototypes assignment you built out yesterday.
-* `Challenge:` **Convert** all of your constructors into ES6 Classes using the `class` and `extends` keywords. You should be able to run your same logs and they should build out the proper expected behaviors.
+* [x] You're going to work with your prototypes assignment you built out yesterday.
+* [x] `Challenge:` **Convert** all of your constructors into ES6 Classes using the `class` and `extends` keywords. You should be able to run your same logs and they should build out the proper expected behaviors.
 
 ## `lambda-classes` - We need a roster of Lambda School personnel. Build it!
 
